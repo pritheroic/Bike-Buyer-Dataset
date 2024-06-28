@@ -1,4 +1,4 @@
-# Bike-Buyer-Dataset
+# Bike Buyer Dataset
 This repository contains a dataset related to bike buyers, including information on income, gender, bike model, and city. The data is organized in an Excel file, making it easily accessible for analysis and exploration.
 # Dataset Details
 Income Data: The dataset includes information on the income of individuals, providing insights into the economic background of potential bike buyers.
